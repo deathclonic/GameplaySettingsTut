@@ -1,0 +1,1047 @@
+﻿Log file open, 02/23/19 12:21:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GameplaySettingsTut
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.300958
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.105s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: A:/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.02.23-18.21.43:914][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:915][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.23-18.21.43:915][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.23-18.21.43:916][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:916][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:939][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.23-18.21.43:939][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.23-18.21.43:940][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.23-18.21.43:940][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.23-18.21.43:940][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.23-18.21.43:948][  0]LogHAL: Display: Platform has ~ 32 GB [34305929216 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.23-18.21.43:949][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.23-18.21.43:949][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.23-18.21.43:949][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.23-18.21.43:950][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.23-18.21.43:950][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.23-18.21.43:950][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Scalability.ini]
+[2019.02.23-18.21.43:950][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.23-18.21.43:950][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.23-18.21.43:950][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.23-18.21.43:950][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.23-18.21.43:950][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Config/Windows/Engine.ini]
+[2019.02.23-18.21.43:950][  0]LogInit: Computer: DESKTOP-N53GCT6
+[2019.02.23-18.21.43:950][  0]LogInit: User: death
+[2019.02.23-18.21.43:950][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.23-18.21.43:950][  0]LogInit: High frequency timer resolution =3.906241 MHz
+[2019.02.23-18.21.43:951][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.02.23-18.21.43:951][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.23-18.21.43:951][  0]LogMemory: Process Physical Memory: 102.98 MB used, 102.98 MB peak
+[2019.02.23-18.21.43:951][  0]LogMemory: Process Virtual Memory: 89.91 MB used, 89.91 MB peak
+[2019.02.23-18.21.43:951][  0]LogMemory: Physical Memory: 12942.59 MB used,  19774.10 MB free, 32716.68 MB total
+[2019.02.23-18.21.43:951][  0]LogMemory: Virtual Memory: 4651.10 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.23-18.21.43:981][  0]LogInit: Using OS detected language (en-US).
+[2019.02.23-18.21.43:981][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.23-18.21.43:984][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.23-18.21.44:361][  0]LogStreaming: Display: Took  0.381s to InitEngineTextLocalization.
+[2019.02.23-18.21.44:362][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.23-18.21.44:461][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.23-18.21.44:461][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.23-18.21.45:043][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.23-18.21.45:043][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.23-18.21.45:170][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.02.23-18.21.45:170][  0]LogD3D11RHI:       8088/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.23-18.21.45:172][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.23-18.21.45:172][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.23-18.21.45:172][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.23-18.21.45:184][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.23-18.21.45:185][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.23-18.21.45:185][  0]LogWindows: EnumDisplayDevices:
+[2019.02.23-18.21.45:185][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.02.23-18.21.45:185][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.02.23-18.21.45:186][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.23-18.21.45:186][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.02.23-18.21.45:187][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.23-18.21.45:187][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.02.23-18.21.45:187][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2019.02.23-18.21.45:187][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2019.02.23-18.21.45:187][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.02.23-18.21.45:237][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.23-18.21.45:261][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.23-18.21.45:820][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.23-18.21.45:833][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.23-18.21.45:847][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.23-18.21.45:861][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.23-18.21.45:880][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.23-18.21.45:896][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.23-18.21.45:911][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.23-18.21.45:925][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.23-18.21.45:932][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:006][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.23-18.21.46:008][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.23-18.21.46:071][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.23-18.21.46:071][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.23-18.21.46:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.23-18.21.46:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.23-18.21.46:108][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.23-18.21.46:120][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.23-18.21.46:133][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.23-18.21.46:147][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.23-18.21.46:195][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.23-18.21.46:195][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.23-18.21.46:195][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.23-18.21.46:275][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Intermediate/Shaders/WorkingDirectory/11596/).
+[2019.02.23-18.21.46:275][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/death/AppData/Local/Temp/UnrealShaderWorkingDir/C8E343F24EDE0C5CD8F440B66ADAD23F/'.
+[2019.02.23-18.21.46:278][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.23-18.21.46:278][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.23-18.21.46:278][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.23-18.21.46:828][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.23-18.21.46:908][  0]LogDerivedDataCache: Loaded boot cache 0.08s 72MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.23-18.21.46:908][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.23-18.21.46:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.23-18.21.46:908][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.23-18.21.46:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.23-18.21.46:908][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.23-18.21.46:927][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.23-18.21.46:927][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.23-18.21.46:927][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.23-18.21.46:939][  0]LogDerivedDataCache: Using Local data cache path C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.23-18.21.46:939][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.23-18.21.46:939][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.23-18.21.46:964][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.23-18.21.46:966][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.23-18.21.46:968][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.23-18.21.47:152][  0]LogAssetRegistry: FAssetRegistry took 0.0342 seconds to start up
+[2019.02.23-18.21.47:484][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.23-18.21.47:658][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.23-18.21.47:664][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.23-18.21.47:664][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.23-18.21.47:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.23-18.21.47:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.23-18.21.47:679][  0]LogNetVersion: GameplaySettingsTut 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2321996589)
+[2019.02.23-18.21.48:265][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.106163 seconds
+[2019.02.23-18.21.48:275][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.23-18.21.48:275][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.23-18.21.48:275][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.23-18.21.49:737][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.23-18.21.49:749][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.23-18.21.50:903][  0]SourceControl: Source control is disabled
+[2019.02.23-18.21.50:903][  0]SourceControl: Source control is disabled
+[2019.02.23-18.21.50:905][  0]SourceControl: Source control is disabled
+[2019.02.23-18.21.50:906][  0]SourceControl: Source control is disabled
+[2019.02.23-18.21.51:104][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.23-18.21.51:223][  0]LogOcInput: OculusInput pre-init called
+[2019.02.23-18.21.51:371][  0]LogEngine: Initializing Engine...
+[2019.02.23-18.21.51:373][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.23-18.21.51:375][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.23-18.21.51:375][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.23-18.21.51:375][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.23-18.21.51:375][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.23-18.21.51:622][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.23-18.21.51:639][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.23-18.21.51:672][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.23-18.21.51:692][  0]LogInit: FAudioDevice initialized.
+[2019.02.23-18.21.51:692][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.23-18.21.51:782][  0]LogDerivedDataCache: Saved boot cache 0.09s 72MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.23-18.21.51:804][  0]LogInit: Texture streaming: Enabled
+[2019.02.23-18.21.51:835][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.23-18.21.51:855][  0]LogInit: Transaction tracking system initialized
+[2019.02.23-18.21.51:889][  0]BlueprintLog: New page: Editor Load
+[2019.02.23-18.21.52:009][  0]LocalizationService: Localization service is disabled
+[2019.02.23-18.21.52:557][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/' took 0.02s
+[2019.02.23-18.21.52:557][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.23-18.21.52:557][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.23-18.21.52:557][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.23-18.21.52:557][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.23-18.21.52:557][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.23-18.21.52:558][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.23-18.21.52:558][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.23-18.21.52:736][  0]SourceControl: Source control is disabled
+[2019.02.23-18.21.52:736][  0]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/AudioSettingsTut/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.23-18.21.52:736][  0]LightingResults: New page: Lighting Build
+[2019.02.23-18.21.52:740][  0]MapCheck: New page: Map Check
+[2019.02.23-18.21.52:740][  0]LightingResults: New page: Lighting Build
+[2019.02.23-18.21.53:196][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.23-18.21.53:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.23-18.21.53:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.23-18.21.53:226][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2019.02.23-18.21.53:226][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.490
+[2019.02.23-18.21.53:449][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.21.53:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.21.53:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.21.53:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.21.54:989][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.02.23-18.21.55:069][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameplaySettingsTut
+[2019.02.23-18.21.55:069][  0]LogTemp: CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.23-18.21.55:069][  0]LogTemp: Initial Dir: A:\Game Design\UE4\Epic Games\UE_4.21
+[2019.02.23-18.21.55:070][  0]LogTemp: Env CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.02.23-18.21.55:070][  0]LogTemp: BranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries
+[2019.02.23-18.21.55:070][  0]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.23-18.21.55:665][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\death\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.02.23-18.21.55:665][  0]LogCollectionManager: Loaded 0 collections in 0.003161 seconds
+[2019.02.23-18.21.55:705][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Collections/' took 0.01s
+[2019.02.23-18.21.55:705][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/Developers/death/Collections/' took 0.01s
+[2019.02.23-18.21.55:705][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/Collections/' took 0.01s
+[2019.02.23-18.21.55:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.23-18.21.55:714][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2651 classes and 620 folders.
+[2019.02.23-18.21.55:722][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.23-18.21.55:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.23-18.21.55:911][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.23-18.21.55:929][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.02.23-18.21.55:940][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.02.23-18.21.55:972][  0]LogSlate: Took 0.000488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.23-18.21.55:981][  0]LogSlate: Took 0.000570 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.23-18.21.56:090][  0]LogRenderer: Reallocating scene render targets to support 1608x744 Format 10 NumSamples 1 (Frame:1).
+[2019.02.23-18.21.56:225][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.23-18.21.56:225][  0]LogLoad: (Engine Initialization) Total time: 16.19 seconds
+[2019.02.23-18.21.56:225][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.23-18.21.56:900][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.23-18.21.57:000][  2]LogAssetRegistry: Asset discovery search completed in 9.8695 seconds
+[2019.02.23-18.21.57:002][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.23-18.21.57:002][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2019.02.23-18.22.12:517][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.22.26:775][709]LogSlate: Took 0.000447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:883][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AudioSettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:Health' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:BaseLookUpRate' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:BaseTurnRate' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:CameraBoom' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:FollowCamera' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C:UserConstructionScript' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.SKEL_BP_3PCharacter_C' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C:Health' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C:BaseLookUpRate' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C:BaseTurnRate' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C:CameraBoom' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C:FollowCamera' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.26:996][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_3PCharacter.BP_3PCharacter_C:UserConstructionScript' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_3PCharacter.PackageMetaData'
+[2019.02.23-18.22.27:000][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC_C' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC.PackageMetaData'
+[2019.02.23-18.22.27:000][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC.PackageMetaData'
+[2019.02.23-18.22.27:001][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.SKEL_BP_ThirdPersonPC_C:UserConstructionScript' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC.PackageMetaData'
+[2019.02.23-18.22.27:001][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.SKEL_BP_ThirdPersonPC_C' ref from Metadata '/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC.PackageMetaData'
+[2019.02.23-18.22.27:005][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/AudioSettingsTut/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.02.23-18.22.27:005][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/AudioSettingsTut/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.02.23-18.22.27:005][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/AudioSettingsTut/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.02.23-18.22.27:005][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/AudioSettingsTut/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.02.23-18.22.27:005][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/AudioSettingsTut/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2019.02.23-18.22.27:284][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonExampleMapF3EF3E73406AB3B5F60E71A1F9D8C394.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Maps/ThirdPersonExampleMap.umap'
+[2019.02.23-18.22.27:287][709]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.102
+[2019.02.23-18.22.27:289][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/AudioSettingsTut/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.02.23-18.22.27:289][709]LogMetaData: Removing '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/AudioSettingsTut/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2019.02.23-18.22.27:529][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonExampleMap_BuiltData8B8AB77E4398B1230264D39CEFBABC3A.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.23-18.22.27:545][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/UE4_Mannequin_Skeleton41D588D949FA57F8B451709777D9196F.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.02.23-18.22.28:095][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPerson_JumpD1046AFC4F85411BF68BC6A5E953F192.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2019.02.23-18.22.28:126][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonJump_Loop7D02B51344A9995AE1C030960DBDB76A.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2019.02.23-18.22.28:159][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonJump_StartB589F1D941B9BD1CA31E7C99847BC129.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2019.02.23-18.22.28:190][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonIdleEEC31A274B610FF74D1C72BD880589DD.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2019.02.23-18.22.28:221][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonRun22F42D8E4CDD9019732B498846DD0CB5.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPersonRun.uasset'
+[2019.02.23-18.22.28:254][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonWalk21E000444A815112CE72228DC8FD33FB.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2019.02.23-18.22.28:295][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPerson_IdleRun_2D99138BE945F93129CF9C78B9C15C63EA.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2019.02.23-18.22.28:388][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPerson_AnimBPC2D9A7C54C1507A98E8A238EB90B4274.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.02.23-18.22.28:415][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/T_ML_Rubber_Blue_01_D5BAEE4E74CA01605EF09F3961241E547.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2019.02.23-18.22.28:457][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/T_ML_Rubber_Blue_01_NDE0439C541D4113F9620BA9B2CC99D40.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2019.02.23-18.22.28:494][709]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.02.23-18.22.28:820][709]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.23-18.22.28:821][709]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.23-18.22.28:821][709]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.23-18.22.28:821][709]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.23-18.22.28:863][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ML_GlossyBlack_Latex_UE4070C668D406C10C183E7B1879BC24C0F.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2019.02.23-18.22.28:873][709]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.02.23-18.22.28:911][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ML_Plastic_Shiny_Beige7D4824B64347D7165E69E288C99ADEF7.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2019.02.23-18.22.28:955][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/UE4_LOGO_CARD4777B44C41BDC4D71A5D1FB7BD5514D0.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset'
+[2019.02.23-18.22.28:965][709]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.02.23-18.22.29:025][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ML_Plastic_Shiny_Beige_LOGO7006FA814FDECEA5E091A2B8EC933C09.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2019.02.23-18.22.29:057][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/T_ML_Aluminum01CBC168DF44E4FDB517116E9E4FEED724.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2019.02.23-18.22.29:085][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/T_ML_Aluminum01_N12E2E4D14D957AAFF462588ED59778AF.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2019.02.23-18.22.29:098][709]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.02.23-18.22.29:155][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ML_SoftMetal_UE4DCCA8C1046DFCD03BE1B25B574ED6E33.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2019.02.23-18.22.29:250][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/UE4_Mannequin__normalsD51C0CBC4B7A25A08199B4AD8A43B91A.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset'
+[2019.02.23-18.22.29:285][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/UE4_Mannequin_MAT_MASKA72BF5FA64523C4DC67C1738DE8DB2FEA.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2019.02.23-18.22.29:346][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/M_UE4Man_Body34ED086E4A3C8BB41A6AEE90F3D63823.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2019.02.23-18.22.29:376][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/UE4Man_Logo_N4BBF525D4494C507E80935A8303A60E9.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Textures/UE4Man_Logo_N.uasset'
+[2019.02.23-18.22.29:414][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/M_UE4Man_ChestLogo896CCCB148DDE05FE580459D2AC5C728.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2019.02.23-18.22.29:718][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/SK_Mannequin_PhysicsAssetCC72AC884841507681FB8A987E514BAB.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2019.02.23-18.22.29:797][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/SK_MannequinE4CD336E474E5B8B515CFBA04A6520F7.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2019.02.23-18.22.29:864][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/BP_3PCharacterFDF8BA754B99327F4374EEA0D83830B1.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/BP_3PCharacter.uasset'
+[2019.02.23-18.22.30:006][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/BP_ThirdPersonPC162E5CE54A0FB12C6314598DB6F4E91E.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.uasset'
+[2019.02.23-18.22.30:019][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonGameMode5F891608402920FF8569A0B60E29913B.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/ThirdPersonGameMode.uasset'
+[2019.02.23-18.22.30:048][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/CubeMaterialAB8FDCD54F5BBD35C401F9AACFDA9A13.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/CubeMaterial.uasset'
+[2019.02.23-18.22.30:092][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/1M_Cube9C306CC74C4EF1E87B095082429BF615.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/1M_Cube.uasset'
+[2019.02.23-18.22.30:135][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/1M_Cube_Chamfer291FB5C24FF47736C72468B439128E4F.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/1M_Cube_Chamfer.uasset'
+[2019.02.23-18.22.30:180][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/RampMaterial90A096D8424AB9F2FA9BFDA5C97ADC1B.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/RampMaterial.uasset'
+[2019.02.23-18.22.30:223][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Bump_StaticMeshACAF70B84BB6C217695EDBB8275C57F5.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/Bump_StaticMesh.uasset'
+[2019.02.23-18.22.30:258][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/LeftArm_StaticMeshA49A8C714FFFF909491676A33F62E156.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/LeftArm_StaticMesh.uasset'
+[2019.02.23-18.22.30:299][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Linear_Stair_StaticMesh422B47AB492ED977E9D03D8449810D5C.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/Linear_Stair_StaticMesh.uasset'
+[2019.02.23-18.22.30:345][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Ramp_StaticMeshE965970646419FDD894CDC964A74EED8.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/Ramp_StaticMesh.uasset'
+[2019.02.23-18.22.30:385][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/RightArm_StaticMeshEB1E521E419E76FD30255EBC160259B2.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/RightArm_StaticMesh.uasset'
+[2019.02.23-18.22.30:428][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/TemplateFloorF5ED23EC49B523853AB794B50977DEF7.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Meshes/TemplateFloor.uasset'
+[2019.02.23-18.22.30:712][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonExampleMapD895EFB44F856A0ED5BAA5937D2010E1.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Maps/ThirdPersonExampleMap.umap'
+[2019.02.23-18.22.30:757][709]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.321
+[2019.02.23-18.22.30:839][709]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/ThirdPersonJump_End7A57AD2946B7214FBFF8B6B5ECB0FEDD.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Assets/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2019.02.23-18.22.32:539][709]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.02.23-18.22.32:539][709]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.02.23-18.22.32:539][709]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.02.23-18.22.33:928][709]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.02.23-18.22.34:167][709]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.02.23-18.22.34:575][709]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.02.23-18.22.35:307][710]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.02.23-18.22.36:549][801]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.02.23-18.22.37:345][858]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.23-18.22.37:453][867]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.23-18.22.38:161][925]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.23-18.22.39:269][ 33]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.23-18.22.39:560][ 64]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.23-18.22.40:473][150]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.23-18.22.52:262][490]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC
+[2019.02.23-18.22.52:741][490]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.02.23-18.22.55:746][659]LogSlate: Window 'BP_ThirdPersonPC' being destroyed
+[2019.02.23-18.22.57:021][794]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC
+[2019.02.23-18.22.57:583][794]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.23-18.22.58:423][868]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.23-18.22.59:278][944]LogSlate: Window 'BP_ThirdPersonPC' being destroyed
+[2019.02.23-18.25.51:601][820]LogSlate: Window 'Save Content' being destroyed
+[2019.02.23-18.25.51:637][820]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/BP_ThirdPersonPC3D918F5B4C866635439C65B4C25F809F.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.uasset'
+[2019.02.23-18.25.56:003][317]BlueprintLog: New page: Compile BP_ThirdPersonPC
+[2019.02.23-18.26.20:496][579]LogLinker: Can't find file '/Game/AudioSettingsTut/Widgets/WBP_AudioSettings'
+[2019.02.23-18.26.20:496][579]LogLinker: Can't find file '/Game/AudioSettingsTut/Widgets/WBP_AudioSettings'
+[2019.02.23-18.26.20:498][579]LogLinker: Can't find file '/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC'
+[2019.02.23-18.26.20:498][579]LogLinker: Can't find file '/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC'
+[2019.02.23-18.26.33:783][129]BlueprintLog: New page: Compile BP_ThirdPersonPC
+[2019.02.23-18.26.33:821][129]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Spawn node  Create Widget  must have a class specified.
+[2019.02.23-18.26.33:833][129]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  Target  and  WBP Audio : Widget Object Reference is not compatible with Object Reference.
+[2019.02.23-18.26.33:833][129]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  WBP Audio  and  Target : Object Reference is not compatible with Widget Object Reference.
+[2019.02.23-18.26.33:833][129]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Get WBP_Audio
+[2019.02.23-18.26.33:833][129]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  WBP Audio  and  In Widget to Focus : Object Reference is not compatible with Widget Object Reference.
+[2019.02.23-18.26.33:834][129]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Get WBP_Audio
+[2019.02.23-18.26.33:834][129]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Set WBP_Audio
+[2019.02.23-18.26.33:834][129]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  In Widget to Focus  and  WBP Audio : Widget Object Reference is not compatible with Object Reference.
+[2019.02.23-18.26.33:835][129]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] The property associated with  WBP Audio  could not be found in '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC_C'
+[2019.02.23-18.26.33:972][129]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] [0293.93] Compile of BP_ThirdPersonPC failed. 6 Fatal Issue(s) 3 Warning(s) [in 189 ms] (/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC)
+[2019.02.23-18.27.02:253][234]LogSlate: Window 'Save Content' being destroyed
+[2019.02.23-18.27.02:300][234]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/BP_ThirdPersonPC7CEA00BB48BFE7761C06EEA1A2E2016D.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.uasset'
+[2019.02.23-18.27.02:315][234]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidget1CF867D14CC360F169CA1EA2F7FDA64C.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.27.05:283][564]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.23-18.27.07:648][822]BlueprintLog: New page: Compile BP_ThirdPersonPC
+[2019.02.23-18.27.07:656][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  Target  and  WBP Audio : Widget Object Reference is not compatible with Object Reference.
+[2019.02.23-18.27.07:656][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  WBP Audio  and  Target : Object Reference is not compatible with Widget Object Reference.
+[2019.02.23-18.27.07:656][822]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Get WBP_Audio
+[2019.02.23-18.27.07:656][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  WBP Audio  and  In Widget to Focus : Object Reference is not compatible with Widget Object Reference.
+[2019.02.23-18.27.07:656][822]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Get WBP_Audio
+[2019.02.23-18.27.07:656][822]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Set WBP_Audio
+[2019.02.23-18.27.07:657][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  In Widget to Focus  and  WBP Audio : Widget Object Reference is not compatible with Object Reference.
+[2019.02.23-18.27.07:657][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2019.02.23-18.27.07:657][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Default value '' for  WBP Audio  is invalid: 'PinSubCategoryObject on pin 'WBP_Audio' is NULL and PinSubCategory is 'None' not 'self''
+[2019.02.23-18.27.07:657][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] The property associated with  WBP Audio  could not be found in '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC_C'
+[2019.02.23-18.27.07:657][822]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] The property associated with  WBP Audio  could not be found in '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC_C'
+[2019.02.23-18.27.07:808][822]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] [0327.77] Compile of BP_ThirdPersonPC failed. 8 Fatal Issue(s) 3 Warning(s) [in 160 ms] (/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC)
+[2019.02.23-18.27.13:597][449]BlueprintLog: New page: Compile BP_ThirdPersonPC
+[2019.02.23-18.27.13:604][449]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  Target  and  WBP Audio : Widget Object Reference is not compatible with Object Reference.
+[2019.02.23-18.27.13:604][449]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] Can't connect pins  WBP Audio  and  Target : Object Reference is not compatible with Widget Object Reference.
+[2019.02.23-18.27.13:604][449]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] Could not find a variable named "WBP_Audio" in 'BP_ThirdPersonPC_C'.
+Make sure 'BP_ThirdPersonPC_C' has been compiled for  Get WBP_Audio
+[2019.02.23-18.27.13:605][449]LogBlueprint: Error: [Compiler BP_ThirdPersonPC] The property associated with  WBP Audio  could not be found in '/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC_C'
+[2019.02.23-18.27.13:763][449]LogBlueprint: Warning: [Compiler BP_ThirdPersonPC] [0333.72] Compile of BP_ThirdPersonPC failed. 3 Fatal Issue(s) 1 Warning(s) [in 166 ms] (/Game/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC)
+[2019.02.23-18.27.40:559][564]BlueprintLog: New page: Compile BP_ThirdPersonPC
+[2019.02.23-18.27.40:758][564]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/BP_ThirdPersonPC47EA225647D5C19CBFEE7D816663BBE8.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.uasset'
+[2019.02.23-18.27.48:891][495]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget
+[2019.02.23-18.28.00:243][694]BlueprintLog: New page: Compile Wbp_ExampleWidget
+[2019.02.23-18.28.00:350][694]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidget72146D764CFB94C7E2C79293EDAC1036.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.28.03:114][994]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-18.28.03:129][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.28.03:130][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-18.28.03:130][994]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 23, 2019, 6:28:03 AM)
+[2019.02.23-18.28.03:142][994]LogPlayLevel: Creating play world package: /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.23-18.28.03:155][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012690s)
+[2019.02.23-18.28.03:156][994]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.23-18.28.03:156][994]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.02.23-18.28.03:156][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013666s)
+[2019.02.23-18.28.03:220][994]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.23-18.28.03:233][994]LogInit: FAudioDevice initialized.
+[2019.02.23-18.28.03:279][994]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.23-18.28.03:280][994]LogWorld: Bringing World /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.23-12.28.03
+[2019.02.23-18.28.03:280][994]LogWorld: Bringing up level for play took: 0.000927
+[2019.02.23-18.28.03:306][994]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.02.23-18.28.03:307][994]PIE: Play in editor start time for /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap 0.124
+[2019.02.23-18.28.03:307][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.28.04:170][ 90]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.23-18.28.06:848][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.28.06:848][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.28.06:886][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-18.28.06:886][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.28.06:915][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.28.06:948][411]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.23-18.28.08:717][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.28.24:377][280]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.23-18.29.08:406][220]LogProperty: Warning: ClassProperty /Script/BlueprintGraph.K2Node_DynamicCast:TargetType: unresolved reference to 'BlueprintGeneratedClass'"/Game/AudioSettingsTut/Blueprints/BP_ThirdPersonPC.BP_ThirdPersonPC_C"''
+[2019.02.23-18.29.26:746][342]BlueprintLog: New page: Compile Wbp_ExampleWidget
+[2019.02.23-18.29.26:822][342]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidgetDB1538CB4D3C3493B9BFED879E0C3C66.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.29.40:145][889]BlueprintLog: New page: Compile BP_ThirdPersonPC
+[2019.02.23-18.29.40:369][889]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/BP_ThirdPersonPC56C7FF284819E42C8C8D2A9DF3B2B988.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Blueprints/BP_ThirdPersonPC.uasset'
+[2019.02.23-18.29.45:887][519]BlueprintLog: New page: Compile Wbp_ExampleWidget
+[2019.02.23-18.29.45:968][519]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidget8CD31116441602FD8CB4C98F3DC16C3B.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.29.46:313][554]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidgetAB88668649A8ED1C5D07A789E228DFB6.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.29.47:339][660]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-18.29.47:361][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.29.47:361][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-18.29.47:361][660]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 23, 2019, 6:29:47 AM)
+[2019.02.23-18.29.47:362][660]LogPlayLevel: Creating play world package: /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.23-18.29.47:378][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015751s)
+[2019.02.23-18.29.47:379][660]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.23-18.29.47:379][660]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.02.23-18.29.47:379][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016716s)
+[2019.02.23-18.29.47:437][660]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.23-18.29.47:447][660]LogInit: FAudioDevice initialized.
+[2019.02.23-18.29.47:480][660]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.23-18.29.47:482][660]LogWorld: Bringing World /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.23-12.29.47
+[2019.02.23-18.29.47:482][660]LogWorld: Bringing up level for play took: 0.001105
+[2019.02.23-18.29.47:496][660]PIE: Play in editor start time for /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap 0.313
+[2019.02.23-18.29.47:496][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.29.48:804][812]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.23-18.29.49:321][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.29.49:655][914]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.23-18.29.50:027][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.29.50:954][ 67]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.23-18.29.51:636][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.29.52:010][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.29.52:011][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.29.52:046][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-18.29.52:046][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.29.52:078][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.29.52:114][194]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.23-18.29.53:215][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.30.01:746][276]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.23-18.30.03:290][448]BlueprintLog: New page: Compile Wbp_ExampleWidget
+[2019.02.23-18.30.03:367][448]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidgetD63EB2BC41B1F0FB28E69386C36551A9.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.30.03:761][488]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidgetD677494D40DF286AF5D773BB75009F13.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.30.04:975][623]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.23-18.30.04:995][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.30.04:995][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.23-18.30.04:995][623]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 23, 2019, 6:30:04 AM)
+[2019.02.23-18.30.04:995][623]LogPlayLevel: Creating play world package: /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.23-18.30.05:012][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017334s)
+[2019.02.23-18.30.05:013][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.23-18.30.05:013][623]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.02.23-18.30.05:013][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018335s)
+[2019.02.23-18.30.05:070][623]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.23-18.30.05:079][623]LogInit: FAudioDevice initialized.
+[2019.02.23-18.30.05:090][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.30.05:124][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.23-18.30.05:126][623]LogWorld: Bringing World /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.23-12.30.05
+[2019.02.23-18.30.05:126][623]LogWorld: Bringing up level for play took: 0.001352
+[2019.02.23-18.30.05:143][623]PIE: Play in editor start time for /Game/GameplaySettingsTut/Maps/UEDPIE_0_ThirdPersonExampleMap -0.039
+[2019.02.23-18.30.05:144][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.30.05:178][623]LogRenderer: Reallocating scene render targets to support 1608x756 Format 10 NumSamples 1 (Frame:1).
+[2019.02.23-18.30.06:315][749]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.02.23-18.30.08:217][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.23-18.30.09:252][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.30.09:252][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.23-18.30.09:265][101]LogSlate: Window 'GameplaySettingsTut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.23-18.30.09:300][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.23-18.30.09:300][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.23-18.30.09:358][103]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.02.23-18.32.39:881][827]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GameplaySettingsTut/Maps/ThirdPersonExampleMap' took 0.033
+[2019.02.23-18.35.50:904][630]LogSlate: Took 0.002491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_27.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_28.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_29.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_30.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_31.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_32.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_33.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_34.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_35.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_36.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_37.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.39:354][  9]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54.VerticalBoxSlot_0) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_0).  Import failed...
+[2019.02.23-18.37.39:354][  9]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_54.VerticalBoxSlot_0"''
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_27.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_28.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_29.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_30.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_31.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_32.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_33.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_34.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_35.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_36.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_37.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:579][795]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_38.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.37.54:580][795]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54.VerticalBoxSlot_1) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2019.02.23-18.37.54:580][795]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_54.VerticalBoxSlot_1"''
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_27.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_28.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_29.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_30.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_31.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_32.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_33.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_34.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_35.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_36.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_37.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_38.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_39.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_40.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.33:658][278]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54.VerticalBoxSlot_2) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_2).  Import failed...
+[2019.02.23-18.38.33:658][278]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_54.VerticalBoxSlot_2"''
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_27.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_28.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_29.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_30.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_31.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_32.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_33.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_34.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_35.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_36.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_37.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_38.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_39.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_40.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_41.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.38.48:073][960]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54.VerticalBoxSlot_3) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_3).  Import failed...
+[2019.02.23-18.38.48:073][960]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_54.VerticalBoxSlot_3"''
+[2019.02.23-18.38.55:892][862]BlueprintLog: New page: Compile Wbp_ExampleWidget
+[2019.02.23-18.38.55:994][862]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidget22722F294DDAA85EC5090AB7E4394435.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.38.56:438][902]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Saved/Wbp_ExampleWidget10EB30DD452207BA22F915849C63811D.tmp' to '../../../../../../../GIT/Tutorials/GameplaySettingsTut/GameplaySettingsTut/Content/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.uasset'
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget:WidgetTree.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_44.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_28.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_29.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_30.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_31.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_32.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_33.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_45.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_35.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:368][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_46.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_37.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_38.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_39.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_41.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_42.WidgetTree_0.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54 or VerticalBox /Game/GameplaySettingsTut/Widgets/Wbp_ExampleWidget.Wbp_ExampleWidget_C:WidgetTree.VerticalBox_54
+[2019.02.23-18.39.33:369][202]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Engine/Transient.World_12:Wbp_ExampleWidget_C_43.WidgetTree_0.VerticalBox_54.VerticalBoxSlot_3) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_3).  Import failed...
+[2019.02.23-18.39.33:369][202]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_54.VerticalBoxSlot_3"''
+[2019.02.23-18.39.36:257][541]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.23-18.39.36:257][541]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.23-18.39.39:168][541]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.911 s
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: 
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: 
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: Stack: 
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffaf8ee85e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafba6fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafba9acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafba8140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafbaeb427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafbb2f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafbac726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffb00cc1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffb039e206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffb03a24c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-18.39.39:185][541]LogOutputDevice: Error: [Callstack] 0x00007ffafc346d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffafc334cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb039a694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb03a2697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb03a19a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb1a57daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb1a570de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb1a5801eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb1a56ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb4e196d41 USER32.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb4e196713 USER32.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb1a581746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ff61eb65546 UE4Editor.exe!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ff61eb7596c UE4Editor.exe!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ff61eb759ea UE4Editor.exe!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ff61eb848da UE4Editor.exe!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ff61eb8659a UE4Editor.exe!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb4d2c3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: [Callstack] 0x00007ffb4fe93691 ntdll.dll!UnknownFunction []
+[2019.02.23-18.39.39:186][541]LogOutputDevice: Error: 
+[2019.02.23-18.39.39:187][541]LogStats:                SubmitErrorReport -  0.000 s
